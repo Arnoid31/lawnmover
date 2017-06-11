@@ -11,14 +11,17 @@ In case of two lawnmovers hitting each other, this is not specified, so it will 
 
 ## installation
 Do not forget to run :
+
     npm i
 
 
 ## usage
 Package.json contains already an example :
+
     npm start
 
 For using this script with files :
+
     node main.js relative/path/to/file
 
 

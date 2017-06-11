@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha --recursive",
+    "start": "node main.js test/files/example"
   },
   "author": "",
   "license": "ISC",
